@@ -19,7 +19,9 @@ Diese Übung konzentriert sich auf das Hinzufügen von Connectoraktionen zu eine
 ## Erstellen einer SharePoint-Connectoraktion
 
 1. Navigieren Sie in Ihrem Webbrowser zu [Copilot Studio](https://www.copilotstudio.microsoft.com) unter `https://www.copilotstudio.microsoft.com`.
-1. Wählen Sie in der **Bibliothek** Ihren **Produktsupport-Agent** aus.
+1. Wählen Sie in der Randleiste **Agents** aus.
+1. Wählen Sie **Microsoft 365 Copilot** aus.
+1. Wählen Sie unter **Agents** Ihren **Produktsupport**-Agent aus.
 1. Wählen Sie unter **Aktionen** die Option **Aktion hinzufügen** aus.
 1. Geben Sie im Fenster **Aktion hinzufügen** in der Suchleiste **Suchen** den Wert `SharePoint` ein. Warten Sie, bis relevante Aktionen im Fenster angezeigt werden.
 1. Suchen Sie die Connectoraktion **SharePoint-Ordnerliste** und wählen Sie sie aus.
