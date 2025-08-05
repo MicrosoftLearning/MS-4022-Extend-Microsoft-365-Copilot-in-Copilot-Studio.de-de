@@ -33,16 +33,16 @@ In Copilot Studio:
 Veröffentlichen wir den aktualisierten Agent in Microsoft 365 Copilot.
 
 1. Wählen Sie **Veröffentlichen** oben rechts auf der Übersichtsseite Ihres Agents in Copilot Studio.
-2. In dem sich öffnenden modalen Fenster wählen Sie **Veröffentlichen**.
-3. Im Fenster **Verfügbarkeitsoptionen**, das sich öffnet, wählen Sie **Kopieren** unter der Überschrift **Link teilen**.
-4. Fügen Sie in einer anderen Registerkarte Ihres Webbrowsers **den Link zur Freigabe Ihres Agent ein** und wählen Sie **Eingabe**. Ein Fenster wird angezeigt, in dem der **Produktsupport-Agent** beschrieben wird.
-5. Wählen Sie **Jetzt aktualisieren** unter dem Namen des Agents, um die Änderungen für den Produktsupport-Agent zu veröffentlichen. Warten Sie einige Augenblicke, während der Agent aktualisiert wird.
-6. Wenn das Update abgeschlossen ist, schließen Sie das modale Fenster. Wenn Sie in Ihrem Browser nicht zum Microsoft 365 Copilot weitergeleitet werden, wählen Sie **Copilot** aus dem linken Menü oder dem Menü **Apps** im Microsoft 365-Portal.
+1. In dem sich öffnenden modalen Fenster wählen Sie **Veröffentlichen**.
+1. Im Fenster **Verfügbarkeitsoptionen**, das sich öffnet, wählen Sie **Kopieren** unter der Überschrift **Link teilen**.
+1. Fügen Sie in einer anderen Registerkarte Ihres Webbrowsers **den Link zur Freigabe Ihres Agent ein** und wählen Sie **Eingabe**. Ein Fenster wird angezeigt, in dem der **Produktsupport-Agent** beschrieben wird.
+1. Wählen Sie **Jetzt aktualisieren** unter dem Namen des Agents, um die Änderungen für den Produktsupport-Agent zu veröffentlichen. Warten Sie einige Augenblicke, während der Agent aktualisiert wird.
+1. Wenn das Update abgeschlossen ist, schließen Sie das modale Fenster. Wenn Sie in Ihrem Browser nicht zum Microsoft 365 Copilot weitergeleitet werden, wählen Sie **Copilot** aus dem linken Menü oder dem Menü **Apps** im Microsoft 365-Portal.
 
 ## Testen Ihres Agents in Microsoft 365 Copilot
 
 1. Wählen Sie in **Microsoft 365 Copilot** das Symbol oben rechts aus, um den **Copilot-Seitenbereich zu erweitern**.
-2. Suchen Sie die Option **Produktsupport** in der Liste der Agents und wählen Sie sie aus, um das immersive Erlebnis zu betreten und direkt mit dem Agent zu chatten. Beachten Sie, dass die Starterprompts, die Sie in Copilot Studio definiert haben, auf der Benutzeroberfläche angezeigt werden.
+1. Suchen Sie die Option **Produktsupport** in der Liste der Agents und wählen Sie sie aus, um das immersive Erlebnis zu betreten und direkt mit dem Agent zu chatten. Beachten Sie, dass die Starterprompts, die Sie in Copilot Studio definiert haben, auf der Benutzeroberfläche angezeigt werden.
 
     ![Screenshot von Microsoft 365 Copilot in Microsoft Edge mit den Starterprompts des Produktsupport-Agents.](../Media/product-support-starter-prompts.png)
-3. **Wählen Sie einen Starterprompt aus**, und überprüfen Sie die Antwort.
+1. **Wählen Sie einen Starterprompt aus**, und überprüfen Sie die Antwort.
