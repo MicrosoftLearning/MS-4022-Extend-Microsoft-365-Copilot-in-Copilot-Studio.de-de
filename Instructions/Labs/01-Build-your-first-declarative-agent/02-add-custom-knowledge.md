@@ -38,7 +38,7 @@ Bevor Sie diese Übung starten können, müssen Sie die produktbezogenen Dokumen
 1. Auf der Seite **Benennen Sie Ihre Website** geben Sie `Product support` ein und wählen **Weiter**.
 1. Auf der nächsten Konfigurationsseite ändern Sie die **Datenschutzeinstellungen** in **Öffentlich**.
 1. Wählen Sie **Standort anlegen**. Die Erstellung der Website kann einige Augenblicke dauern, bevor die Schaltfläche **Fertig stellen** aktiviert wird.
-1. Wählen Sie **Fertig stellen**aus.
+1. Wählen Sie **Fertig stellen** aus.
 
 ### Erstellen einer Dokumentbibliothek
 
@@ -70,15 +70,19 @@ Fügen Sie Ihrem Agent die SharePoint-URL als grundlegende Wissensquelle hinzu.
 
 ### Hinzufügen einer SharePoint-URL
 
-1. Wählen Sie auf der Übersichtsseite Ihres Agents für den Produktsupport in Copilot Studio im Abschnitt **Wissen** die Option **Wissen hinzufügen**.
+1. Navigieren Sie in einem Webbrowser zu [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/) unter `https://copilotstudio.microsoft.com`.
+1. Wählen Sie **Agents** aus.
+1. Wählen Sie **Copilot für Microsoft 365** aus.
+1. Wählen Sie Ihren **Produktsupport**-Agent aus.
+1. Wählen Sie im Abschnitt **Wissen** auf der Übersichtsseite des Agents die Option **Wissensdatenbank hinzufügen** aus.
 
     ![Screenshot von Copilot Studio in Microsoft Edge mit hervorgehobener Schaltfläche „Wissen hinzufügen“ für den Produkt-Support-Agent.](../Media/product-support-add-knowledge.png)
 
-2. Wählen Sie auf der Seite **Wissen hinzufügen** des angezeigten Assistenten die Option **SharePoint** aus.
-3. Fügen Sie in das Textfeld die URL Ihrer SharePoint-Bibliothek **Produkte** ein und wählen Sie dann **Hinzufügen**. Dies sollte im folgenden Format erfolgen: `https://DOMAIN.sharepoint.com/sites/ProductSupport/Products`.
+1. Wählen Sie auf der Seite **Wissen hinzufügen** des angezeigten Assistenten die Option **SharePoint** aus.
+1. Fügen Sie in das Textfeld die URL Ihrer SharePoint-Bibliothek **Produkte** ein und wählen Sie dann **Hinzufügen**. Dies sollte im folgenden Format erfolgen: `https://DOMAIN.sharepoint.com/sites/ProductSupport/Products`.
 
-4. Wählen Sie im Fenster **SharePoint hinzufügen** die Option **Hinzufügen** und warten Sie, bis die Wissensquelle zum Agent hinzugefügt wurde. Dies kann ein oder zwei Minuten dauern.
-5. Beachten Sie, dass die Bibliothek **Produkte** im Abschnitt **Wissen** der Übersichtsinformationen des Agents aufgeführt ist.
+1. Wählen Sie im Fenster **SharePoint hinzufügen** die Option **Hinzufügen** und warten Sie, bis die Wissensquelle zum Agent hinzugefügt wurde. Dies kann ein oder zwei Minuten dauern.
+1. Beachten Sie, dass die Bibliothek **Produkte** im Abschnitt **Wissen** der Übersichtsinformationen des Agents aufgeführt ist.
 
 > **Hinweis**: Copilot Studio-Agents greifen im Namen der Benutzenden auf Dokumente zu. Ihr Agent kann nur Antworten und Inhalte von Dokumenten erhalten, auf die Ihre Endbenutzenden Zugriff haben.
 

@@ -108,7 +108,7 @@ Veröffentlichen Sie als Nächstes Ihren deklarativen Agent in Microsoft 365 Cop
 
 Als Nächstes führen wir den deklarativen Agent in Microsoft 365 Copilot aus und überprüfen seine Funktionalität sowohl in der **immersiven** als auch in der **kontextbezogenen** Umgebung.
 
-Nach den vorherigen Schritten befinden Sie sich derzeit in der **immersiven** Agent-Erfahrung. Beachten Sie im Bereich **Agents** auf der rechten Seite, dass **Produkt-Support** als Agent ausgewählt ist, mit dem Sie derzeit direkt chatten.
+Nach den vorherigen Schritten befinden Sie sich derzeit in der **immersiven** Agent-Erfahrung. Beachten Sie im Bereich **Agents** neben der Chatoberfläche, dass **Produktsupport** als der Agent ausgewählt ist, mit dem Sie derzeit direkt chatten.
 
 ![Screenshot der immersiven Erfahrung mit dem Produkt-Support-Agent in Microsoft 365 Copilot.](../Media/product-support-immersive.png)
 
@@ -117,7 +117,7 @@ Nach den vorherigen Schritten befinden Sie sich derzeit in der **immersiven** Ag
 
 Im Browser werden wir die Erfahrung **In-Kontext** testen.
 
-1. Wählen Sie über dem **Agents**-Bereich rechts im Chatfenster die Option **Copilot** aus, um den immersiven Chat mit dem Agent des**Produktsupports** zu beenden und mit Microsoft 365 Copilot zu chatten.
+1. Wählen Sie über dem **Agents**-Bereich in der Randleiste die Option **Chat** oder **M365 Copilot** aus, um den immersiven Chat mit dem **Produktsupport**-Agent zu beenden und mit Microsoft 365 Copilot zu chatten.
 
     ![Screenshot der Copilot-Schaltfläche in der Randleiste von Microsoft 365 Copilot.](../Media/select-copilot.png)
 
